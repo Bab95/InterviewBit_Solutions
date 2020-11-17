@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/babnishvyas/CLionProjects/InterviewBit/Solution.cpp
+Solution.h
+/Users/babnishvyas/CLionProjects/InterviewBit/Solution.h
+vector
+-
+algorithm
+-
+iostream
+-
+unordered_map
+-
+stack
+-
+queue
+-
+set
+-
+math.h
+-
+
+/Users/babnishvyas/CLionProjects/InterviewBit/Solution.h
+vector
+-
+iostream
+-
+string
+-
+algorithm
+-
+
